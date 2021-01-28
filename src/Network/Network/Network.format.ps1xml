@@ -1351,7 +1351,11 @@
                 <Label>PeeringState</Label>
                 <PropertyName>PeeringState</PropertyName>
               </ListItem>
-              <ListItem>
+				<ListItem>
+					<Label>PeeringSyncLevel</Label>
+					<PropertyName>PeeringSyncLevel</PropertyName>
+				</ListItem>
+				<ListItem>
                 <Label>ProvisioningState</Label>
                 <PropertyName>ProvisioningState</PropertyName>
               </ListItem>
@@ -1379,7 +1383,11 @@
                 <Label>RemoteGateways</Label>
                 <PropertyName>RemoteGatewaysText</PropertyName>
               </ListItem>
-              <ListItem>
+				<ListItem>
+					<Label>PeeredRemoteAddressSpace</Label>
+					<PropertyName>PeeredRemoteAddressSpaceText</PropertyName>
+				</ListItem>
+				<ListItem>
                 <Label>RemoteVirtualNetworkAddressSpace</Label>
                 <PropertyName>RemoteVirtualNetworkAddressSpaceText</PropertyName>
               </ListItem>
